@@ -14,7 +14,7 @@ The main deliverables of our project are:
 1. MATLAB Script (`main_script.m`)
 2. GUI app (`DipoleAntennaDesigner.mlapp`)
 
-`MATLAB GUI code.m` contains the hardcoded equations for the design of the antenna and generation of plots.
+`Matlab GUI code.m` contains the hardcoded equations for the design of the antenna and generation of plots.
 
 `DipoleAntennaDesigner.mlapp` uses the logic provided in `main_script.m` and provides an interactive interface for changing the parameters of the antenna and visualizing the results.
 
