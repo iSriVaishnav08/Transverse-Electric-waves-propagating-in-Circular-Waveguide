@@ -43,5 +43,5 @@ Plots are interactive, allowing users to examine and analyze antenna characteris
 ## Team Members
 
 1. Sri Vaishnav Kontham - 210002048
-2. Deepak Jaladi - 210002039
+
    
